@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Ingrede/Ingrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Oii ! Eu sou a Ingrede Novais 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
