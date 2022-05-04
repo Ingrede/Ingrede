@@ -1,7 +1,7 @@
 ### Oii ! Eu sou a Ingrede Novais 👋
 
 - 🔭 Trabalhando atualmente com Recursos Humanos/Gestão de Pessoas
-- 🌱 Estudando JavaScript, Reactjs e .NET
+- 🌱 Estudando JavaScript, Reactjs e .NET (Novata)
 - 👯 I’m looking to collaborate on 💭
 - 🤔 I’m looking for help with 👩‍💻
 - 💬 Ask me about ...
