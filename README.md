@@ -1,7 +1,7 @@
 ### Oii ! Eu sou a Ingrede Novais 👋
 
 - 🔭 Trabalhando atualmente com Recursos Humanos/Gestão de Pessoas
-- 🌱 Estudando JavaScript (Novata)
+- 🌱 Estudando JavaScript, Reactjs e Node.js (Novata)
 - 😄 Ela / Dela
 
 <div>
